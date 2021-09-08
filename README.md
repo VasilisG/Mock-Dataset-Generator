@@ -152,7 +152,7 @@ Example:
 ```
 dataField = IpAddressField('ip_address')
 dataField = IpAddressField('ipv4_address', IpAddressField.IPv_4)
-dataField = IpAddressField('ipv6_address', IpAddressField.IPv_4)
+dataField = IpAddressField('ipv6_address', IpAddressField.IPv_6)
 ```
 
 ### 6) Name Field
